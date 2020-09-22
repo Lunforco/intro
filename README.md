@@ -19,6 +19,12 @@
 
 高科大(第一校區)J109218115李侑倫 :smile: :+1:
 
+:thumbsup::musical_keyboard:
+:hamburger::sunny:
+:moneybag::timer_clock:
+:100::white_check_mark: 
+:black_nib:
+
 ```python
 print("Hello RRR")
 ```

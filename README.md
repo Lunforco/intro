@@ -10,14 +10,54 @@
 #### 工作內容:
 * GUI介面設計
 * 軟韌體設計
+  * 1a
+  * 1b
+  
+1. a
+2. b
+3. c
+   * 2a
+   * 2b
+   
       
 ##### 專長:尋找專長中
 
 ###### 興趣:運動、電影、踏青
 
+*OOOO斜體*
+
+_oooo斜體_
+
+**tttt粗體**
+
+__tttt粗體__
+
+*You **can** conbine them斜體+**粗體***
+
 ![google](google.png "google")
 
-高科大(第一校區)J109218115李侑倫 :smile: :+1:
+As Teacher said:
+      
+> Code is good
+
+> Studying is bad
+
+\*產生星號\*
+
+\\產生斜線\\
+
+\(產生括號\)
+
+\[中括號\]
+
+\{大括號\}
+
+\_底線\_
+
+- [X] option
+- [ ] test
+
+`高科大(第一校區)J109218115李侑倫` :smile: :+1:
 
 :thumbsup::musical_keyboard:
 :hamburger::sunny:
@@ -28,6 +68,7 @@
 ```python
 print("Hello RRR")
 ```
+
 表格:
 | Left | Center | Right |
 | :----- | :-----: | -----: |

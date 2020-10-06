@@ -36,6 +36,10 @@ __tttt粗體__
 
 ![google](google.png "google")
 
+<img src="https://i.imgur.com/9cgQVqD.png" alt="IMGUR LOGO"/>
+
+<img src="https://i.imgur.com/9cgQVqD.png" alt="IMGUR LOGO" width="500" height="200"/>
+
 As Teacher said:
       
 > Code is good

@@ -2,7 +2,7 @@
 
 ## 姓名:李侑倫
 
-### 就職單位:[XX工業股份有限公司](https://tw.yahoo.com/)
+### 就職單位:[XXXX股份有限公司](https://tw.yahoo.com/)
 >研發X部XX課
 >>XXXX股
 ***
